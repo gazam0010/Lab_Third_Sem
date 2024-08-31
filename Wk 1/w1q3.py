@@ -1,13 +1,14 @@
-def isPrime(n):
-    if n <= 1:
-        return False
-    if (n % 2 == 0) or (n % 3 == 0):
-        return False
-    for i in range(5, n, 2):
-        if(n % i == 0):
-            return False
-    return True
+#Print only divisible by 5 in a list
 
-for i in range(1, ran):
-    if isPrime(i):
-        print(i, end = " ")
+print("Enter 20 numbers in a list.")
+
+lst = []
+
+for i in range(20):
+    num = int(input(f"Enter number {i+1}: "))
+    lst.append(num)
+
+for i in lst:
+    if i % 5 == 0:
+        print(i, end=" ")
+

@@ -1,8 +1,8 @@
-num = int(input("Enter a number: "))
+#Print sum of first 10 numbers
 
-count = 0
+sum = 0
 
-while (num > 0):
-    digit = int(num % 10)
-    count += 1
-    num = num // 10                
+for i in range(10):
+    sum += i
+
+print(sum)                  

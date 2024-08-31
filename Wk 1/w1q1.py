@@ -1,6 +1,9 @@
-num = int(input("Enter a number: "))
+num1 = int(input("Enter first number: "))
+num2 = int(input("Enter second number: "))
 
-while (num > 0):
-    digit = int(num % 10)
-    print(digit)
-    num = num // 10
+product = num1 * num2
+
+if (product <= 5000):
+    print(num1 + num2)
+else:
+    print(product)
