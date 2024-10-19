@@ -1,0 +1,10 @@
+Amit Sharma,E101,50000,1
+Fatima Khan,E102,60000,2
+Rajesh Singh,E103,55000,3
+Zoya Ali,E104,47000,4
+Irfan Sheikh,E105,72000,2
+Anjali Gupta,E106,53000,1
+Adil Ahmed,E107,61000,4
+Priya Verma,E108,49000,3
+Sana Rizvi,E109,68000,2
+Rakesh Yadav,E110,54000,1

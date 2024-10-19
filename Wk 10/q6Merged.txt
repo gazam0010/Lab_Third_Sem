@@ -1,0 +1,19 @@
+Amit Sharma,E101,50000,1,Computer Science,Aligarh Muslim University
+
+Anjali Gupta,E106,53000,1,Computer Science,Aligarh Muslim University
+
+Rakesh Yadav,E110,54000,1,Computer Science,Aligarh Muslim University
+
+Fatima Khan,E102,60000,2,Electrical Engineering,Aligarh Muslim University
+
+Irfan Sheikh,E105,72000,2,Electrical Engineering,Aligarh Muslim University
+
+Sana Rizvi,E109,68000,2,Electrical Engineering,Aligarh Muslim University
+
+Rajesh Singh,E103,55000,3,Mechanical Engineering,Aligarh Muslim University
+
+Priya Verma,E108,49000,3,Mechanical Engineering,Aligarh Muslim University
+
+Zoya Ali,E104,47000,4,Civil Engineering,Aligarh Muslim University
+
+Adil Ahmed,E107,61000,4,Civil Engineering,Aligarh Muslim University

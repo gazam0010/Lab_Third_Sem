@@ -1,0 +1,4 @@
+1,Computer Science,Aligarh Muslim University
+2,Electrical Engineering,Aligarh Muslim University
+3,Mechanical Engineering,Aligarh Muslim University
+4,Civil Engineering,Aligarh Muslim University

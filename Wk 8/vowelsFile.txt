@@ -1,0 +1,6 @@
+This is a sample text file 1.
+It contains several words.
+Some of these words include vowels: A, E, I, O, U.
+Let's check how many times each vowel appears.
+Do you think there are more vowels or consonants?
+Vowels are important in language.
