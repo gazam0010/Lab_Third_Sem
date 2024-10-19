@@ -1,3 +1,5 @@
+# Merge employee and department data
+
 with open('Wk 10/q6Employees.txt', 'r') as emp, open('Wk 10\q6Departments.txt', 'r') as dep:
     
     employee_data = {}
