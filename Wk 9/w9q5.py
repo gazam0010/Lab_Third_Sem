@@ -2,7 +2,7 @@
 
 import string
 
-with open('Wk 9/random_text.txt', 'r') as file:
+with open('Lab F/Lab_Third_Sem\Wk 9/random_text.txt', 'r') as file:
     text = file.read()
 
 text = text.lower()

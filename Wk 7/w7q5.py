@@ -1,10 +1,10 @@
 #Average salary in each department
 
 import numpy as n
-with open('Wk 7\Employees.txt', 'r') as emp:
+with open('Lab F/Lab_Third_Sem\Wk 7/Employees.txt', 'r') as emp:
     employee_data = [line.strip().split(',') for line in emp]
 
-with open('Wk 7\Departments.txt', 'r') as dpt:
+with open('Lab F/Lab_Third_Sem\Wk 7/Departments.txt', 'r') as dpt:
     department_data = {line.strip().split(',')[0]: line.strip().split(',')[1] for line in dpt}
     
 dept_salaries = {}

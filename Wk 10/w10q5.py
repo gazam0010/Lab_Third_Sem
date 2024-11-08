@@ -1,6 +1,6 @@
 # Count maximum occurence of a character then replace it with the word Aligarh
 
-with open('Wk 10/forq5.txt', 'r+') as file:
+with open('Lab F/Lab_Third_Sem/Wk 10/forq5.txt', 'r+') as file:
     data = file.read()
 
     words = data.lower().split()

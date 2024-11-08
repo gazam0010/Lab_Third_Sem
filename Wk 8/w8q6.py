@@ -1,6 +1,6 @@
 #Count the occurences of each vowel in the text file
 
-with open('Wk 8/vowelsFile.txt', 'r') as file:
+with open('Lab F\Lab_Third_Sem\Wk 8\w8q6.py', 'r') as file:
     data = file.read()
 
 data = ''.join(data.split())

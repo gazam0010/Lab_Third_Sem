@@ -11,4 +11,4 @@ for x in s1:
     except ValueError:
         alphabets.append(x)
         
-print(f"Alphabets: {alphabets} \nNumbers: {numbers}") 
+print(f"Alphabets: {alphabets} \nNumbers: {numbers}")
