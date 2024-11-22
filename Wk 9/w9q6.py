@@ -1,6 +1,6 @@
 # Count number of subjects against each course
 
-with open('Lab F/Lab_Third_Sem\Wk 9/Course Structure.txt', 'r') as file:
+with open('Lab_Third_Sem\Wk 9\Course Structure.txt', 'r') as file:
     data = [line.strip().split(',')[0] for line in file]
 
 courses = set(data)

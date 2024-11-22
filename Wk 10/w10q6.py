@@ -1,6 +1,6 @@
 # Merge employee and department data
 
-with open('Lab F/Lab_Third_Sem/Wk 10/q6Employees.txt', 'r') as emp, open('Lab F/Lab_Third_Sem/Wk 10/q6Departments.txt', 'r') as dep:
+with open('Lab_Third_Sem/Wk 10/q6Employees.txt', 'r') as emp, open('Lab_Third_Sem/Wk 10/q6Departments.txt', 'r') as dep:
     
     employee_data = {}
     for line in emp:
@@ -23,7 +23,7 @@ with open('Lab F/Lab_Third_Sem/Wk 10/q6Employees.txt', 'r') as emp, open('Lab F/
         for emp_info in employees:
             merged_data.append(emp_info + [did] + dep_info)
             
-with open('Lab F/Lab_Third_Sem/Wk 10/q6Merged.txt', 'w') as merged:
+with open('Lab_Third_Sem/Wk 10/q6Merged.txt', 'w') as merged:
     for row in merged_data:
         merged.write(','.join(row) + '\n')
-
+        

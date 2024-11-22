@@ -1,6 +1,6 @@
 #!/bin/bash
 
-FILE="w10q4.sh"
+#FILE="w11q4.sh"
 
 if [ -f "$FILE" ]; then
     echo "File $FILE exists."
